@@ -15,4 +15,5 @@
 
 # Kubernetes
 [Scaling Kubernetes to multiple clusters and regions](https://community.ops.io/danielepolencic/scaling-kubernetes-to-multiple-clusters-and-regionss-jp7)
+<br>
 [Argo CD begginers guide](https://blog.tanmaysarkar.tech/beginners-guide-to-argo-cd)

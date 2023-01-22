@@ -14,7 +14,7 @@
 <br>
 [AWS Certified Solutions Architect - Associate 2020](https://www.youtube.com/watch?v=Ia-UEYYR44s)
 <br>
-[AZ-900 Azure Fundamentals Certification Exam Cram - Full Course](AZ-900 Azure Fundamentals Certification Exam Cram - Full Course)
+[AZ-900 Azure Fundamentals Certification Exam Cram - Full Course]()
 <br>
 [Spotify Web is bloated - Devtooling Spotify](https://www.youtube.com/watch?v=NzKcLB0_uAY)
 <br>
@@ -26,7 +26,7 @@
 <br>
 [Docker networking is CRAZY!! (you NEED to learn it)](https://www.youtube.com/watch?v=bKFMS5C4CG0)
 <br>
-[Building a container from scratch in Go - Liz Rice (Microscaling Systems)](Building a container from scratch in Go - Liz Rice (Microscaling Systems))
+[Building a container from scratch in Go - Liz Rice (Microscaling Systems)]()
 <br>
 [Algorithms and Data Structures Tutorial - Full Course for Beginners](https://www.youtube.com/watch?v=8hly31xKli0)
 <br>
@@ -52,7 +52,7 @@
 
 
 # Github repos
-[sample]()
+[learnk8s multi-cluster](https://github.com/learnk8s/multi-cluster)
 
 # dev.to
 [Kubernetes Security Best Practices For Developers ](https://dev.to/pavanbelagatti/kubernetes-security-best-practices-for-developers-2b92)
@@ -64,3 +64,5 @@
 [Scaling Kubernetes to multiple clusters and regions](https://community.ops.io/danielepolencic/scaling-kubernetes-to-multiple-clusters-and-regionss-jp7)
 <br>
 [Argo CD begginers guide](https://blog.tanmaysarkar.tech/beginners-guide-to-argo-cd)
+<br>
+[How to get started with K8s contributions](https://abhii85.hashnode.dev/how-to-get-started-with-k8s-contributions)

@@ -1,5 +1,5 @@
 # Research And Learning material
-**this repo organizes some PDF's, youtube videos, github repos**
+**this repo organizes some PDF's, youtube videos, github repos for reasearch and learning in lots of different topics**
 
 # Youtube
 [Advanced Golang: Channels, Context and Interfaces Explained](https://www.youtube.com/watch?v=VkGQFFl66X4)
